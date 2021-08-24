@@ -27,6 +27,7 @@ body {
     align-items: center;
     font-family: 'Poppins', sans-serif;
     text-align: center;
+    background-color: var(--Very-Light-Gray);
     padding: 0 10px;
     min-height: 100vh;
 }
